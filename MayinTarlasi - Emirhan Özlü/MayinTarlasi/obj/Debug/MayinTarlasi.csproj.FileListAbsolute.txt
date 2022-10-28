@@ -1,0 +1,44 @@
+C:\Users\emirh\Desktop\C#\MayinTarlasi\MayinTarlasi\bin\Debug\MayinTarlasi.exe.config
+C:\Users\emirh\Desktop\C#\MayinTarlasi\MayinTarlasi\bin\Debug\MayinTarlasi.exe
+C:\Users\emirh\Desktop\C#\MayinTarlasi\MayinTarlasi\bin\Debug\MayinTarlasi.pdb
+C:\Users\emirh\Desktop\C#\MayinTarlasi\MayinTarlasi\obj\Debug\MayinTarlasi.csproj.AssemblyReference.cache
+C:\Users\emirh\Desktop\C#\MayinTarlasi\MayinTarlasi\obj\Debug\MayinTarlasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\emirh\Desktop\C#\MayinTarlasi\MayinTarlasi\obj\Debug\MayinTarlasi.Form1.resources
+C:\Users\emirh\Desktop\C#\MayinTarlasi\MayinTarlasi\obj\Debug\MayinTarlasi.Properties.Resources.resources
+C:\Users\emirh\Desktop\C#\MayinTarlasi\MayinTarlasi\obj\Debug\MayinTarlasi.csproj.GenerateResource.cache
+C:\Users\emirh\Desktop\C#\MayinTarlasi\MayinTarlasi\obj\Debug\MayinTarlasi.csproj.CoreCompileInputs.cache
+C:\Users\emirh\Desktop\C#\MayinTarlasi\MayinTarlasi\obj\Debug\MayinTarlasi.exe
+C:\Users\emirh\Desktop\C#\MayinTarlasi\MayinTarlasi\obj\Debug\MayinTarlasi.pdb
+C:\Users\emirh\Desktop\C#\MayinTarlasi - Kopya\MayinTarlasi\bin\Debug\MayinTarlasi.exe.config
+C:\Users\emirh\Desktop\C#\MayinTarlasi - Kopya\MayinTarlasi\bin\Debug\MayinTarlasi.exe
+C:\Users\emirh\Desktop\C#\MayinTarlasi - Kopya\MayinTarlasi\bin\Debug\MayinTarlasi.pdb
+C:\Users\emirh\Desktop\C#\MayinTarlasi - Kopya\MayinTarlasi\obj\Debug\MayinTarlasi.csproj.AssemblyReference.cache
+C:\Users\emirh\Desktop\C#\MayinTarlasi - Kopya\MayinTarlasi\obj\Debug\MayinTarlasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\emirh\Desktop\C#\MayinTarlasi - Kopya\MayinTarlasi\obj\Debug\MayinTarlasi.Form1.resources
+C:\Users\emirh\Desktop\C#\MayinTarlasi - Kopya\MayinTarlasi\obj\Debug\MayinTarlasi.Properties.Resources.resources
+C:\Users\emirh\Desktop\C#\MayinTarlasi - Kopya\MayinTarlasi\obj\Debug\MayinTarlasi.csproj.GenerateResource.cache
+C:\Users\emirh\Desktop\C#\MayinTarlasi - Kopya\MayinTarlasi\obj\Debug\MayinTarlasi.csproj.CoreCompileInputs.cache
+C:\Users\emirh\Desktop\C#\MayinTarlasi - Kopya\MayinTarlasi\obj\Debug\MayinTarlasi.exe
+C:\Users\emirh\Desktop\C#\MayinTarlasi - Kopya\MayinTarlasi\obj\Debug\MayinTarlasi.pdb
+C:\Users\emirh\Desktop\C#\MayinTarlasi - Kopya - Kopya\MayinTarlasi\bin\Debug\MayinTarlasi.exe.config
+C:\Users\emirh\Desktop\C#\MayinTarlasi - Kopya - Kopya\MayinTarlasi\bin\Debug\MayinTarlasi.exe
+C:\Users\emirh\Desktop\C#\MayinTarlasi - Kopya - Kopya\MayinTarlasi\bin\Debug\MayinTarlasi.pdb
+C:\Users\emirh\Desktop\C#\MayinTarlasi - Kopya - Kopya\MayinTarlasi\obj\Debug\MayinTarlasi.csproj.AssemblyReference.cache
+C:\Users\emirh\Desktop\C#\MayinTarlasi - Kopya - Kopya\MayinTarlasi\obj\Debug\MayinTarlasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\emirh\Desktop\C#\MayinTarlasi - Kopya - Kopya\MayinTarlasi\obj\Debug\MayinTarlasi.Form1.resources
+C:\Users\emirh\Desktop\C#\MayinTarlasi - Kopya - Kopya\MayinTarlasi\obj\Debug\MayinTarlasi.Properties.Resources.resources
+C:\Users\emirh\Desktop\C#\MayinTarlasi - Kopya - Kopya\MayinTarlasi\obj\Debug\MayinTarlasi.csproj.GenerateResource.cache
+C:\Users\emirh\Desktop\C#\MayinTarlasi - Kopya - Kopya\MayinTarlasi\obj\Debug\MayinTarlasi.csproj.CoreCompileInputs.cache
+C:\Users\emirh\Desktop\C#\MayinTarlasi - Kopya - Kopya\MayinTarlasi\obj\Debug\MayinTarlasi.exe
+C:\Users\emirh\Desktop\C#\MayinTarlasi - Kopya - Kopya\MayinTarlasi\obj\Debug\MayinTarlasi.pdb
+C:\Users\emirh\Desktop\MayinTarlasi - Emirhan Özlü\MayinTarlasi\bin\Debug\MayinTarlasi.exe.config
+C:\Users\emirh\Desktop\MayinTarlasi - Emirhan Özlü\MayinTarlasi\bin\Debug\MayinTarlasi.exe
+C:\Users\emirh\Desktop\MayinTarlasi - Emirhan Özlü\MayinTarlasi\bin\Debug\MayinTarlasi.pdb
+C:\Users\emirh\Desktop\MayinTarlasi - Emirhan Özlü\MayinTarlasi\obj\Debug\MayinTarlasi.csproj.AssemblyReference.cache
+C:\Users\emirh\Desktop\MayinTarlasi - Emirhan Özlü\MayinTarlasi\obj\Debug\MayinTarlasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\emirh\Desktop\MayinTarlasi - Emirhan Özlü\MayinTarlasi\obj\Debug\MayinTarlasi.Form1.resources
+C:\Users\emirh\Desktop\MayinTarlasi - Emirhan Özlü\MayinTarlasi\obj\Debug\MayinTarlasi.Properties.Resources.resources
+C:\Users\emirh\Desktop\MayinTarlasi - Emirhan Özlü\MayinTarlasi\obj\Debug\MayinTarlasi.csproj.GenerateResource.cache
+C:\Users\emirh\Desktop\MayinTarlasi - Emirhan Özlü\MayinTarlasi\obj\Debug\MayinTarlasi.csproj.CoreCompileInputs.cache
+C:\Users\emirh\Desktop\MayinTarlasi - Emirhan Özlü\MayinTarlasi\obj\Debug\MayinTarlasi.exe
+C:\Users\emirh\Desktop\MayinTarlasi - Emirhan Özlü\MayinTarlasi\obj\Debug\MayinTarlasi.pdb
